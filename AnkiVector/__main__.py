@@ -82,7 +82,11 @@ buttons = [
         InlineKeyboardButton(
             text="➕ ᴀᴅᴅ ᴀɴᴋɪ ᴠᴇᴄᴛᴏʀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url="t.me/TheAnkiVectorbot?startgroup=true"
         ),
-    ],
+    ], 
+    
+    ),
+    
+    
 ]Spiderman_IMG = "https://t.me/Spidermansupport/4"
 
 HELP_STRINGS = f"""
